@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+  font-family: monospace;
+}
+
+.parent {
+  display: flex;
+  flex-flow: row;
+  justify-content: space-between;
+}
+
+.box {
+  width: 33%;
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
+}
+
+.article {
+  width: 80%;
+  line-height: 3;
+}
+
+img {
+  height: 300px;s
+}
