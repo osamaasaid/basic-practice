@@ -1,3 +1,5 @@
 # basic-practice
 
-# **simple page**
+# **Simple page**
+
+## A simple display of basic layouts using CSS Flexbox
