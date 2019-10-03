@@ -3,6 +3,9 @@
       font-family: monospace;
     }
 
+    body {
+      background-color: darkcyan
+    }
 
     .page-title {
       font-size: 50px;
@@ -12,6 +15,7 @@
     .container {
       display: flex;
       flex-flow: column;
+      background-color: burlywood;
     }
 
     .row {
